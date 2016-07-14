@@ -1,5 +1,3 @@
-#include <WaspSensorCities.h>
-
 
 #include <WaspSensorSW.h>
 
